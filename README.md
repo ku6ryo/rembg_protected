@@ -1,1 +1,1 @@
-Just a small example of a server of rembg which is protected by API key. The API key must be send in "X-API-KEY" header.
+Just a small example of a [rembg](https://github.com/danielgatis/rembg) server which is protected by API key. The API key must be send in "X-API-KEY" header.
